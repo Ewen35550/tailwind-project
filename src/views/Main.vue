@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full min-h-screen">
+  <div class="w-full min-h-screen bg-white">
     <Navbar :itemsNav="itemsNav" />
     <router-view />
   </div>
@@ -21,16 +21,16 @@ export default defineComponent({
           nameRoute: "dashboard-view",
           icon: "element-2",
         },
-        // {
-        //   text: "Rappeurs",
-        //   nameRoute: "",
-        //   icon: "microphone-2",
-        // },
-        // {
-        //   text: "Albums",
-        //   nameRoute: "",
-        //   icon: "music-dashboard",
-        // },
+        {
+          text: "Rappeurs",
+          nameRoute: "list-rappeurs",
+          icon: "microphone-2",
+        },
+        {
+          text: "Albums",
+          nameRoute: "list-albums",
+          icon: "music-dashboard",
+        },
       ] as NavbarItem[],
     };
   },
