@@ -1,5 +1,7 @@
 <template>
-  <nav class="w-[200px] h-full bg-gray-200 py-8 px-4 fixed rounded-r-xl">
+  <nav
+    class="w-[200px] h-full bg-blue-900 py-8 px-4 fixed rounded-r-xl text-white"
+  >
     <h1 class="text-3xl font-semibold text-center">Brand</h1>
 
     <div class="mt-8 gap-3">

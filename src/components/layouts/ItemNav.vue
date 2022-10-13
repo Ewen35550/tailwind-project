@@ -1,7 +1,7 @@
 <template>
   <router-link
     :to="{ name: item.nameRoute }"
-    :class="`flex p-2 rounded ${selected && 'bg-white'}`"
+    :class="`flex p-2 rounded ${selected && 'bg-blue-500'}`"
     @click="$emit('click')"
   >
     <img :src="getSvgLink()" class="mr-3" />
