@@ -1,0 +1,56 @@
+[
+    {
+      "name": "Ipséité",
+      "rappeur": "Damso",
+      "image": "ipseite",
+      "type": "album"
+    },
+    {
+      "name": "Mobius",
+      "rappeur": "Rounhaa",
+      "image": "mobius",
+      "type": "album"
+    },
+    {
+      "name": "Dans la légende",
+      "rappeur": "PNL",
+      "image": "dansLaLegende",
+      "type": "album"
+    },
+    {
+      "name": "Trinity",
+      "rappeur": "Laylow",
+      "image": "trinity",
+      "type": "album"
+    },
+    {
+      "name": "don dada mixtape vol 1",
+      "rappeur": "Alpha Wann",
+      "image": "dondadaMixtape",
+      "type": "album"
+    },
+    {
+      "name": "En Lessguill",
+      "rappeur": "Edge",
+      "image": "enLessguill",
+      "type": "album"
+    },
+    {
+      "name": "Memoria",
+      "rappeur": "Jazzy Bazz",
+      "image": "memoria",
+      "type": "album"
+    },
+    {
+      "name": "Offshore",
+      "rappeur": "Edge",
+      "image": "offshore",
+      "type": "album"
+    },
+    {
+      "name": "Peur",
+      "rappeur": "Kerchak",
+      "image": "peur",
+      "type": "single"
+    }
+]

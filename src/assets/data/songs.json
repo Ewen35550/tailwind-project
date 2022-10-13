@@ -1,0 +1,171 @@
+[
+    {
+        "album": "ipseite",
+        "songs": [
+            { "name": "Nwaar Is The New Black" },
+            { "name": "#QuedusaalVie" },
+            { "name": "Mosaïque solitaire" },
+            { "name": "Dieu ne ment jamais" },
+            { "name": "Signaler" },
+            { "name": "Kietu" },
+            { "name": "Gova" },
+            { "name": "Macarena" },
+            { "name": "Peur d'être père" },
+            { "name": "Kin la belle" },
+            { "name": "Lové" },
+            { "name": "Noob Saibot" },
+            { "name": "J Respect R" },
+            { "name": "Une âme pour deux" }
+        ]
+    },
+    {
+        "album": "mobius",
+        "songs": [
+            { "name": "PAPUPIR" },
+            { "name": "MUSIC SOUNDS BETTER WITH YOU" },
+            { "name": "LE MORT" },
+            { "name": "CELINE" },
+            { "name": "ICE" },
+            { "name": "MAFIA" },
+            { "name": "MR. & MRS. SMITH" },
+            { "name": "BOO" },
+            { "name": "ILLEGAL TRISTE" },
+            { "name": "WISH I WAS SPECIAL" },
+            { "name": "BONBON&FLEUR" },
+            { "name": "LE VENTRE ET LA TOMBE" }
+        ]
+    },
+    {
+        "album": "dansLaLegende",
+        "songs": [
+            { "name": "DA" },
+            { "name": "Naha" },
+            { "name": "Dans la légende" },
+            { "name": "Mira" },
+            { "name": "J'suis QLF" },
+            { "name": "La vie est belle" },
+            { "name": "Kratos" },
+            { "name": "Luz de Luna" },
+            { "name": "Tu sais pas" },
+            { "name": "Sheita" },
+            { "name": "Humain" },
+            { "name": "Bambina" },
+            { "name": "Bené" },
+            { "name": "Uranus" },
+            { "name": "Onizuka" },
+            { "name": "Jusqu'au dernier gramme" }
+        ]
+    },
+    {
+        "album": "trinity",
+        "songs": [
+            { "name": "Initialisation" },
+            { "name": "MEGATRON" },
+            { "name": "DEHORS DANS LA NIGHT" },
+            { "name": "HILLZ" },
+            { "name": "PLUG" },
+            { "name": "Menu principal" },
+            { "name": "PIRANHA BABY" },
+            { "name": "TRINITYVILLe" },
+            { "name": "Mieux vaut pas regarder, Pt. 1" },
+            { "name": "VAMONOS" },
+            { "name": "AKANIZER" },
+            { "name": "BURNING MAN" },
+            { "name": "Il était une fois sous l'eau" },
+            { "name": "LONGUE VIE..." },
+            { "name": "Mieux vaut pas regarder, Pt. 2" },
+            { "name": "...DE BATARD" },
+            { "name": "Tentative de reconnexion" },
+            { "name": "POIZON" },
+            { "name": "NAKRé" },
+            { "name": "MILLION FLOWERZ" },
+            { "name": "Manuel d'utilisation" },
+            { "name": "LOGICIEL TRISTE" }
+        ]
+    },
+    {
+        "album": "dondadaMixtape",
+        "songs": [
+            { "name": "mitsubishi" },
+            { "name": "philly flingo" },
+            { "name": "soldat tue soldat" },
+            { "name": "ny à fond" },
+            { "name": "san andreas" },
+            { "name": "trapchat" },
+            { "name": "velux" },
+            { "name": "fahrenheit 451" },
+            { "name": "apdl" },
+            { "name": "super swishstyle 2" },
+            { "name": "aaa" },
+            { "name": "dirty dancing" },
+            { "name": "pistons vs pacers" },
+            { "name": "malevil" },
+            { "name": "carrelage italien" },
+            { "name": "3095 pt2" },
+            { "name": "la lune attire la mer" }
+        ]
+    },
+    {
+        "album": "enLessguill",
+        "songs": [
+            { "name": "LESSGOO/LETSGUILL" },
+            { "name": "7/7" },
+            { "name": "HORS BORD" },
+            { "name": "CETTE NUIT" },
+            { "name": "J'ADORE" },
+            { "name": "LA NOYDADE" },
+            { "name": "CASTING" },
+            { "name": "CDG" },
+            { "name": "TWERK" },
+            { "name": "SBTR/GLDSTN" },
+            { "name": "ADDICTIONS" }
+        ]
+    },
+    {
+        "album": "memoria",
+        "songs": [
+            { "name": "Memoria" },
+            { "name": "Coeur, Conscience" },
+            { "name": "Panorama" },
+            { "name": "Albiceleste" },
+            { "name": "Nouvelle 3.14" },
+            { "name": "Zone 19" },
+            { "name": "Elément 115" },
+            { "name": "D.ieu" },
+            { "name": "P-Town Blues" },
+            { "name": "Interlude" },
+            { "name": "Sablier" },
+            { "name": "Arkham Anthem" },
+            { "name": "Dark City" },
+            { "name": "Mental" },
+            { "name": "Memento Mori" },
+            { "name": ".RAW Spleen" },
+            { "name": "Destinée" }
+        ]
+    },
+    {
+        "album": "offshore",
+        "songs": [
+            { "name": "Météo" },
+            { "name": "Schémas Monotones" },
+            { "name": "20.000" },
+            { "name": "E.D.G.E" },
+            { "name": "LBMLB" },
+            { "name": "Plata" },
+            { "name": "Waze" },
+            { "name": "Palace" },
+            { "name": "Datcha" },
+            { "name": "Dilemne" },
+            { "name": "Pieux" },
+            { "name": "Millésime" },
+            { "name": "100 pas" },
+            { "name": "Des nuages à la terre" }
+        ]
+    },
+    {
+        "album": "peur",
+        "songs": [
+            { "name": "Peur" }
+        ]
+    }
+]
