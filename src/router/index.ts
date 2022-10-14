@@ -10,7 +10,7 @@ const routes: Array<RouteRecordRaw> = [
   {
     path: "/",
     component: Main,
-    redirect: { name: "dashboard" },
+    redirect: { name: "dashboard-view" },
     children: [
       {
         path: "dashboard",
